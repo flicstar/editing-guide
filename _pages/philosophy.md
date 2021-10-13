@@ -1,4 +1,7 @@
-## Editing Philosophy 
+---
+permalink: /philosophy/
+title: "Editing Philosopy"
+---
 
 ### Authentic Communication 
 
