@@ -63,30 +63,24 @@ author:
   bio    : "Helping you communicate the value of what you do,
 to connect you with the people who need to know about it, and grow."
   links:
-    - label: "Website"
+    - label: "openstrategypartners.com"
       icon: "fas fa-fw fa-link"
       url: "https://openstrategypartners.com"
-    - label: "Twitter"
+    - label: "open_strategy"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/open_strategy"
-    - label: "GitHub"
+    - label: "open-strategy-partners"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/open-strategy-partners"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "open_strategy"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/open_strategy"
-    - label: "GitHub"
+    - label: "open-strategy-partners"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/open-strategy-partners"
 
 defaults:
   # _posts
