@@ -10,6 +10,8 @@ give us a strong logical framework to help us be kind, consistent, and helpful e
 fit. 
 {: .notice}
 
+We use our [codes](codes.md) when editing.
+
 ### 1. Review the brief
 
 With the brief in mind, read the written piece. Consult the brief to understand the goals for the writing—target audience for choice of language, 
