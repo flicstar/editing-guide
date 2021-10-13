@@ -1,4 +1,7 @@
-# Editing Phases
+---
+permalink: /phases/
+title: "Editing Phases"
+---
 
 Our editing process is divided into phases. We move from the largest scope (structure) to the smallest, (choice of words). 
 
