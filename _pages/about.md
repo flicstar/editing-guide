@@ -5,10 +5,10 @@ title: "Editing Guide"
 
 This guide includes:
 
-* Our editing [philosophy](editing-philosophy.md)
-* The [four phases](editing-phases.md) in our process
-* Our editing [workflow](editing-workflow.md)
-* The list of our [editing codes](editing-codes.md).
+* Our editing [philosophy](philosophy.md)
+* The [four phases](phases.md) in our process
+* Our editing [workflow](workflow.md)
+* The list of our [editing codes](codes.md).
 
 ## Find out more
 
