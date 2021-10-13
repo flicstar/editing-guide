@@ -1,9 +1,9 @@
 ---
 permalink: /about/
-title: "About"
+title: "Editing Guide"
 ---
 
-Our Editing Guide includes:
+This guide includes:
 
 * Our editing [philosophy](editing-philosophy.md)
 * The [four phases](editing-phases.md) in our process
