@@ -6,8 +6,9 @@ title: "Editing Workflow"
 Our editing workflow has six steps moving from the largest scope (structure) to the smallest (choice of words). These steps
 give us a strong logical framework to help us be kind, consistent, and helpful editors.  
 
-> **Note:** Not all content requires exhaustive editing or review. Depending on your piece, you may spend more or less time on each step. Skip around as you see 
-  fit. 
+**Note:** Not all content requires exhaustive editing or review. Depending on your piece, you may spend more or less time on each step. Skip around as you see 
+fit. 
+{: .notice}
 
 ### 1. Review the brief
 
