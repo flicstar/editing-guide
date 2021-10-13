@@ -16,11 +16,9 @@
 title: OSP Editing Guide
 email: hello@openstrategypartners.com
 description: >- # this means to ignore newlines until "baseurl:"
-  OSP Editing Guide. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  OSP Editing Guide. 
 twitter_username: open_strategy
-github_username: username
+github_username: open-strategy-partners
 minimal_mistakes_skin: default
 search: true
 
@@ -61,7 +59,7 @@ author:
   name   : "Open Strategy Partners"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Helping you communicate the value of what you do,
-to connect you with the people who need to know about it, and grow."
+connect you with the people who need to know about it, and grow."
   links:
     - label: "openstrategypartners.com"
       icon: "fas fa-fw fa-link"
