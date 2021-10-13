@@ -1,3 +1,8 @@
+---
+permalink: /workflow/
+title: "Editing Workflow"
+---
+
 # Editing workflow
 
 Our editing workflow has six steps moving from the largest scope (structure) to the smallest (choice of words). These steps
