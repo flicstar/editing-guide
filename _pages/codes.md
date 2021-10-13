@@ -33,7 +33,7 @@ When reviewing a written piece of content, use a code to support your editorial 
 | Flow                    | RHYTH | Be aware of the length of paragraphs, avoid overly long blocks of text. Stagger length. Create rhythm and visual variation for your reader.  |
 | Structural Aids         | SUBHD | Relevant subheads assist the reader by breaking up copy and defining the purpose of each text block. This is the structural perspective on the code HEAD.                                                                                                                                      |
 | Trust and evidence      | EXMPL | Examples enhance the thesis or claims by helping to create a picture in the readers mind.          |
-| Trust and evidence      | QUOTE | Quote your subject matter expert directly wherever possible to build trust, authority, and add interest.   |
+| Trust and evidence      | [QUOTE](https://flicstar.com/editing-guide/flow-and-sections/quote/) | Quote your subject matter expert directly wherever possible to build trust, authority, and add interest.   |
 | Trust and evidence      | TRUST | Where possible, mention or highlight signals of trust                                                     |
 | Tight Writing           | CASE  | Make sure each point in each paragraph is valid, relevant, and unique.                                     |
 | Tight Writing           | CLUTT | Cut all clutter (no extraneous words, sentences, or paragraphs). If your words do not build the case toward the conclusion or your thesis, they are extraneous. Good writing is often a process of rewriting, and editing with a critical eye. Judge your writing as if someone else wrote it. |
@@ -67,7 +67,7 @@ When reviewing a written piece of content, use a code to support your editorial 
 | Phrasing                             | FEEL   | Your sentences should create pictures, feelings, emotions for the reader.  |
 | Phrasing                             | DIR    | Use the direct path to the explanation. Avoid longwinded paths to the point.   |
 | Phrasing                             | KISS   | Avoid making points sound needlessly complicated   |
-| Phrasing                             | REPET  | Avoid careless repetition  |
+| Phrasing                             | [REPET](https://flicstar.com/editing-guide/style-and-phrasing/repet/)  | Avoid careless repetition  |
 | Phrasing                             | FRESH  | Avoid cliches or stale expressions   |
 | Phrasing                             | METPH  | Be consistent if you use a metaphor. Try to carry it through the entire article and/or its logical conclusion.  |
 | Phrasing                             | COLOR  | Color and energy. Choose interesting, exciting ways to express things—but not at the expense of clarity and all the rest :-)  |
