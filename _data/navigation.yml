@@ -1,11 +1,11 @@
 main:
-   - title: "About"
+- title: "About"
     url: /about/
- - title: "Codes"
+- title: "Codes"
     url: /codes/
-  - title: "Workflow"
+- title: "Workflow"
     url: /workflow/
-  - title: "Phases"
+- title: "Phases"
     url: /phases/
 - title: "Philosophy"
     url: /philosophy/
