@@ -16,7 +16,7 @@ review process.
 compelling way). Seeing and explicitly highlighting examples of how they demonstrated excellent use of a writing principle highlights patterns writers can recognize, anchor, 
 re-create, and refine. 
 
-**Trust:** We build trust with each other when we recognize an author’s work. We use a system of [editing codes](editing-codes.md) which lets the author trust that the edits to their work are 
+**Trust:** We build trust with each other when we recognize an author’s work. We use a system of [editing codes](codes.md) which lets the author trust that the edits to their work are 
 more objective (not perfectly, but more so than freestyle editing) and connected to a consistently applied set of principles and guidelines. 
 
 ### Communicate, Connect and Grow
