@@ -3,6 +3,15 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Our Editing Guide includes:
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+* Our editing [philosophy](editing-philosophy.md)
+* The [four phases](editing-phases.md) in our process
+* Our editing [workflow](editing-workflow.md)
+* The list of our [editing codes](editing-codes.md).
+
+## Find out more
+
+🎙 The first episode of our podcast, [Communicate, Connect, Grow](https://www.youtube.com/channel/UCK1FgQnuVwknf_CWenjZSMw) explains [how we write and edit](https://openstrategypartners.com/how-we-write-and-edit-at-osp-podcast-s1e1) at OSP. Tune in for mini-episodes where we tell the story behind each editing code: <a href="https://podcasts.apple.com/podcast/id1571261382" target="_blank" class="b_link" rel="noreferrer">Apple Podcasts</a>, <a href="https://open.spotify.com/show/3JRgwdSRC8knAdkMrU6jOb" target="_blank" class="b_link" rel="noreferrer">Spotify</a>, <a href="https://feeds.buzzsprout.com/1759592.rss" target="_blank" class="b_link" rel="noreferrer">RSS Feed</a>, and <a href="https://www.youtube.com/channel/UCK1FgQnuVwknf_CWenjZSMw" target="_blank" class="b_link" rel="noreferrer">YouTube</a>.
+
+👩🏼‍🎓 Learn how to use the editorial codes when you're editing, with the [Editing codes quick start quide](https://openstrategypartners.com/editing-codes-quick-start-guide).
