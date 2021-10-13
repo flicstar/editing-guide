@@ -1,9 +1,11 @@
 main:
-  - title: "Codes"
-    url: /codes/
+  - title: "Phases"
+    url: /phases/
   - title: "Workflow"
     url: /workflow/
-  - title: "Tags"
-    url: /tags/
+  - title: "Codes"
+    url: /codes/
+  - title: "Philosophy"
+    url: /philosophy/
   - title: "About"
     url: /about/
