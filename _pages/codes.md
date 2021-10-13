@@ -1,4 +1,7 @@
-# Editing Codes
+---
+permalink: /codes/
+title: "Editing Codes"
+---
 
 This collection of semantic editing codes are short editing marks that communicate the rationale behind a suggested edit, based on a specific writing guideline. 
 
